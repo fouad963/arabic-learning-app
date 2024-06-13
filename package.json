@@ -1,0 +1,15 @@
+{
+  "name": "arabic-learning-app",
+  "version": "1.0.0",
+  "description": "This repository contains the source code for an AI-powered app to help students learn Arabic with personalized learning paths.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
